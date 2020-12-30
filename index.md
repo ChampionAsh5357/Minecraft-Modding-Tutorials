@@ -1,10 +1,12 @@
 
 # Home
+---
 
 **Disclaimer**: Minecraft modding is a strenuous topic which is disagreed on from all sides depending on the loader, version, and even the language used. These tutorials are my professional expertise and how to best handle these situations. As such, anything discussed within these explanations should be taken with a grain of salt.  
 
 
 ## Prerequisites
+---
 
 These tutorials expect you to have a high level understanding within Gradle the supported JVM language you are using. As such, none of these concepts will be explained beforehand. A list of resources has been compiled containing suggested readings before starting.
 
@@ -22,6 +24,7 @@ These tutorials expect you to have a high level understanding within Gradle the 
         - [Docs](https://docs.scala-lang.org/)
 
 ## Mod Loader
+---
 
 - ### [Forge](./forge)
 - ### [Fabric](./fabric)
