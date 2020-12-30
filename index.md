@@ -1,4 +1,6 @@
 
+# Home
+
 **Disclaimer**: Minecraft modding is a strenuous topic which is disagreed on from all sides depending on the loader, version, and even the language used. These tutorials are my professional expertise and how to best handle these situations. As such, anything discussed within these explanations should be taken with a grain of salt.  
 
 
@@ -19,13 +21,7 @@ These tutorials expect you to have a high level understanding within Gradle the 
     - ### Scala
         - [Docs](https://docs.scala-lang.org/)
 
-## Resources
+## Mod Loader
 
-- ### Documentation
-    - [Forge Docs](https://mcforge.readthedocs.io/en/latest/)
-    - [Forge Community Wiki](https://forge.gemwire.uk/wiki/Main_Page)
-    - [Forge Community Javadoc](https://forge.gemwire.uk/javadoc/)
-- ### Discord
-    - [The Forge Project](https://discord.com/invite/UvedJ9m)
-    - [Minecraft Mod Development](https://discord.mcmoddev.com/)
-    - [Modded Minecraft](https://discord.gg/moddedmc/)
+- ### [Forge](./forge)
+- ### [Fabric](./fabric)
