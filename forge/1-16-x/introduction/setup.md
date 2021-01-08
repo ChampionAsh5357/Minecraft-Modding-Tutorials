@@ -49,30 +49,33 @@ The Gradle buildscript is what allows us to build and automate certain actions s
 
 If you are using the MDK, it is currently shipped with Gradle 4.10.3. To upgrade this parameter to the latest working version, you need to locate `gradle/wrapper/gradle-wrapper.properties`. Within the file, you should find a `distributionUrl` which declares the location to grab the necessary version from. Replace the `gradle-X.X.X-bin.zip` with the appropriate numbers (e.g. `gradle-5.6.4-bin.zip`). Gradle 6.X currently has some compatibility issues and as such, will not be used here.
 
-Now let's open `build.gradle` and get started.
+<div class="groovy text" markdown="1">
 
-<div class="tab">
-  <button class="tablinks" onclick="openSection(event, 'Groovy')" id="defaultOpen">Groovy</button>
-  <button class="tablinks" onclick="openSection(event, 'Kotlin')">Kotlin</button>
+  Now let's open `build.gradle` and get started.
+</div>
+<div class="kotlin text" markdown="1">
+
+  Now let's open `build.gradle.kts` and get started.
 </div>
 
-<div id="Groovy" class="tabcontent" markdown="1">
+<div class="tab">
+  <button class="tablinks" onclick="openSection(event, 'groovy')" id="defaultOpen">Groovy</button>
+  <button class="tablinks" onclick="openSection(event, 'kotlin')">Kotlin</button>
+</div>
+
+<div class="groovy tabcontent" markdown="1">
   <h3>build.gradle</h3>
 
-  ```java
-  public static void main(String[] args) {
-    System.out.println("Test 1");
-  }
+  ```groovy
+  TODO
   ```
 </div>
 
-<div id="Kotlin" class="tabcontent" markdown="1">
+<div class="kotlin tabcontent" markdown="1">
   <h3>build.gradle.kts</h3>
   
-  ```java
-  public static void main(String[] args) {
-    System.out.println("Test 2");
-  }
+  ```kotlin
+  TODO
   ```
 </div>
 
