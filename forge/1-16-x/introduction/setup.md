@@ -1,8 +1,4 @@
----
-output:
-    html_document:
-        css: "../../../tabs/style.css"
----
+<link rel="stylesheet" href="../../../tabs/style.css">
 <script src="../../../tabs/handler.js"></script>
 <script>document.getElementById("defaultOpen").click();</script>
 
