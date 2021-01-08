@@ -56,7 +56,7 @@ Now let's open `build.gradle` and get started.
   <button class="tablinks" onclick="openSection(event, 'Kotlin')">Kotlin</button>
 </div>
 
-<div id="Groovy" class="tabcontent">
+<div id="Groovy" class="tabcontent" markdown="1">
 
   ### build.gradle
 
@@ -67,7 +67,7 @@ Now let's open `build.gradle` and get started.
   ```
 </div>
 
-<div id="Kotlin" class="tabcontent">
+<div id="Kotlin" class="tabcontent" markdown="1">
 
   ### build.gradle.kts
   
