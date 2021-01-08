@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../../../tabs/style.css">
+<script src="../../../tabs/handler.js"></script>
 
 # Workplace Setup
 ---
@@ -56,13 +57,25 @@ Now let's open `build.gradle` and get started.
 </div>
 
 <div id="Groovy" class="tabcontent">
-  <h3>build.gradle</h3>
-  <p>Test 1</p>
+
+  ### build.gradle
+
+  ```java
+  public static void main(String[] args) {
+    System.out.println("Test 1");
+  }
+  ```
 </div>
 
 <div id="Kotlin" class="tabcontent">
-  <h3>build.gradle.kts</h3>
-  <p>Test 2</p>
+
+  ### build.gradle.kts
+  
+  ```java
+  public static void main(String[] args) {
+    System.out.println("Test 2");
+  }
+  ```
 </div>
 
 ## Integrated Development Environment (IDE)
@@ -79,4 +92,4 @@ Back to [Forge - 1.16.x](../)
 Back to [Forge Mod Loader](../../)  
 Back to [Home](../../../)
 
-<script src="../../../tabs/handler.js"></script>
+<script>document.getElementById("defaultOpen").click();</script>
