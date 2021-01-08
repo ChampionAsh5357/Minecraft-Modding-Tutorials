@@ -22,9 +22,16 @@ These tutorials expect you to have a high level understanding within Gradle the 
         - [Language Specification](https://kotlinlang.org/spec/introduction.html)
     - ### Scala
         - [Docs](https://docs.scala-lang.org/)
+- ### Javascript Object Notation (JSON)
+    - [Visual and Class Utilities](https://www.json.org/json-en.html)
+    - [ECMA-404](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
 ## Mod Loader
 ---
 
-- ### [Forge](./forge)
-- ### [Fabric](./fabric)
+- ### [Forge](./forge) - Under construction
+- ### [Fabric](./fabric) - Under construction
+- ### [Bedrock Addons](./bedrock) - Under construction
+
+---
+Back to [Main](https://championash5357.ashwork.net)
