@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="../../../tabs/style.css">
-<script src="../../../tabs/handler.js"></script>
 
 # Workplace Setup
 ---
@@ -79,3 +78,5 @@ Now let's open `build.gradle` and get started.
 Back to [Forge - 1.16.x](../)  
 Back to [Forge Mod Loader](../../)  
 Back to [Home](../../../)
+
+<script src="../../../tabs/handler.js"></script>
