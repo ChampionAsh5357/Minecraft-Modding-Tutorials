@@ -58,6 +58,7 @@ Now let's open `build.gradle` and get started.
 
 <div id="Groovy" class="tabcontent" markdown="1">
 
+
   ### build.gradle
 
   ```java
@@ -68,6 +69,7 @@ Now let's open `build.gradle` and get started.
 </div>
 
 <div id="Kotlin" class="tabcontent" markdown="1">
+
 
   ### build.gradle.kts
   
