@@ -14,3 +14,4 @@ function openSection(evt, language) {
     document.getElementById(language).style.display = "block";
     evt.currentTarget.className += " active";
   }
+  document.getElementById("defaultOpen").click();

@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="../../../tabs/style.css">
 <script src="../../../tabs/handler.js"></script>
-<script>document.getElementById("defaultOpen").click();</script>
 
 # Workplace Setup
 ---
@@ -57,7 +56,6 @@ Now let's open `build.gradle` and get started.
   <button class="tablinks" onclick="openSection(event, 'Kotlin')">Kotlin</button>
 </div>
 
-<!-- Tab content -->
 <div id="Groovy" class="tabcontent">
   <h3>build.gradle</h3>
   <p>Test 1</p>
